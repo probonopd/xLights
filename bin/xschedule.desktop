@@ -1,5 +1,4 @@
 [Desktop Entry]
-Encoding=UTF-8
 Version=1.0
 Type=Application
 Exec=xSchedule %f
@@ -7,5 +6,5 @@ Comment=Lighting control and sequencing - Scheduler
 Name=xSchedule
 Terminal=false
 Icon=xschedule
-Categories=AudioVideo
-MimeType=text/xml
+Categories=AudioVideo;
+MimeType=text/xml;
